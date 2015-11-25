@@ -1,0 +1,22 @@
+At 5:10:49:61849371 PM : 11/25/2015 server says Client A said: To
+At 5:10:49:61849439 PM : 11/25/2015 Client B received: To
+At 5:10:50:61850316 PM : 11/25/2015 server says Client B said: At
+At 5:10:50:61850316 PM : 11/25/2015 Client A received: At
+At 5:10:51:61851626 PM : 11/25/2015 server says Client A said: Sherlock
+At 5:10:51:61851626 PM : 11/25/2015 Client B received: Sherlock
+At 5:10:54:61854210 PM : 11/25/2015 server says Client B said: three
+At 5:10:54:61854210 PM : 11/25/2015 Client A received: three
+At 5:10:56:61856322 PM : 11/25/2015 server says Client A said: Holmes
+At 5:10:56:61856322 PM : 11/25/2015 Client B received: Holmes
+At 5:10:56:61856865 PM : 11/25/2015 server says Client B said: o'clock
+At 5:10:56:61856865 PM : 11/25/2015 Client A received: o'clock
+At 5:10:59:61859790 PM : 11/25/2015 server says Client B said: precisely
+At 5:10:59:61859790 PM : 11/25/2015 Client A received: precisely
+At 5:11:0:61860357 PM : 11/25/2015 server says Client A said: she
+At 5:11:0:61860357 PM : 11/25/2015 Client B received: she
+At 5:11:1:61861146 PM : 11/25/2015 server says Client B said: I
+At 5:11:1:61861146 PM : 11/25/2015 Client A received: I
+At 5:11:2:61862401 PM : 11/25/2015 server says Client A said: is
+At 5:11:2:61862401 PM : 11/25/2015 Client B received: is
+At 5:11:3:61863466 PM : 11/25/2015 server says Client B said: was
+At 5:11:3:61863467 PM : 11/25/2015 Client A received: was
